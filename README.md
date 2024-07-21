@@ -143,7 +143,8 @@ The deployed project can be viewed live [here](https://siddhant-sri-landingpage.
 
 ## Screenshots
 
-![Landing-Page](https://github.com/user-attachments/assets/3fa010d0-6d28-406c-8c65-8970123361f1)
+![Landing-Page](https://github.com/user-attachments/assets/5a7c5915-0511-4559-9acd-447d8737768a)
+
 
 
 
