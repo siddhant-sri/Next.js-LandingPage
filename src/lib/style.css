@@ -1,0 +1,56 @@
+.project {
+    width: 600px;
+    height: 40px;
+    
+    /* SF Text Medium */
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    /* or 133% */
+    letter-spacing: -0.24px;
+    
+    color: #101828;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.projectDiscuss {
+    background: linear-gradient(90deg, #FABC1F 0%, #7CA546 100%);
+}
+
+.greenbutton{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 11px 24px;
+    gap: 8px;
+    
+    width: 132px;
+    height: 58px;
+    
+    background: #80A948;
+    border-radius: 8px;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.pics{
+    position: absolute;
+    width: 624px;
+    height: 1976.98px;
+    left: 628px;
+    top: -504px;
+
+    transform: rotate(-12deg);
+
+}
