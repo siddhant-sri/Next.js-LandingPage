@@ -36,7 +36,7 @@ To get started with the project, follow these steps:
 2. Navigate to the project directory:
 
   ```bash
-   cd task-manager
+   cd project-directory
    ```
 3. Install dependencies:
   ```bash
